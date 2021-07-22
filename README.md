@@ -1,2 +1,4 @@
-# Calculadora-http-gqso
-Calcula pra nós
+# Calculadora API (GQSO IFAL)
+
+TODO(gecs1): preencher 
+descrição das funcionalidades do projeto
